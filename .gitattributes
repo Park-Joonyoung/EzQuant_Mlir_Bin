@@ -1,0 +1,2 @@
+tf-opt filter=lfs diff=lfs merge=lfs -text
+flatbuffer_translate filter=lfs diff=lfs merge=lfs -text
